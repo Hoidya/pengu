@@ -2,9 +2,9 @@
 
 ### TODO
 
-1. Agg. OHLCV from CG & Token Contract Addr
-2. OHLCV from CCXT, given exchange
-3. OHLCV from DEX through CMC
+1. Agg. OHLCV from CG & Token Contract Addr (DONE)
+2. OHLCV from CCXT, given exchange (DONE)
+3. OHLCV from DEX through CMC (DONE)
 
 Note:
 
