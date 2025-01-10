@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+cex_ohlcv/*.csv filter=lfs diff=lfs merge=lfs -text
+tokens_pool_addr_ohlcv/*.csv filter=lfs diff=lfs merge=lfs -text
+tokens_pool_addr/*.csv filter=lfs diff=lfs merge=lfs -text
